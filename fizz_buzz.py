@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 Created - Jan 2018
@@ -27,7 +27,7 @@ def fizz_buzz():
         if i % 5 == 0:
             print(f"{i} is divisible by 5. BUZZ!")
         if i % 5 == 0 and i % 3 == 0:
-            print(f"{i} is divisible by 3 and 5. FIZZBUZZ!")
+            print(f"{i} is divisible by 3 and 5. NINA!")
         if i % 3 == 0 and i % 5 == 0 and i % 15 == 0:
             print(f"{i} is divisible by 3, 5 and 15. FIZZBUZZ - WOW!")
 
